@@ -1,0 +1,6 @@
+producto;cantidad;precio_unitario;total_ventas
+producto1;24;126.0;3024.0
+producto2;28;165.0;4620.0
+producto3;33;79.75;2631.75
+producto4;27;78.0;2106.0
+producto5;13;51.0;663.0
