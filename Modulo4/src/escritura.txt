@@ -1,0 +1,2 @@
+Una línea 	con texto
+Otra línea con texto v2
