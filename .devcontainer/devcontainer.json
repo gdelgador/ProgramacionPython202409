@@ -1,0 +1,16 @@
+{
+  "name": "Python & PostgreSQL",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "ms-python.python",
+    "ms-ossdata.vscode-postgresql"
+  ],
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python"
+  },
+  "forwardPorts": [5432],
+  "postCreateCommand": "pip install -r requirements.txt",
+  "mounts": [
+    "source=pgdata,target=/var/lib/postgresql/data,type=volume"
+  ]
+}
