@@ -1,0 +1,3 @@
+Temperatura máxima: 22.0
+Temperatura mínima: 13.9
+Temperatura promedio: 17.83
