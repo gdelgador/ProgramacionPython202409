@@ -1,0 +1,3 @@
+Producto: producto1,  TotalVentas: 31.5
+Producto: producto2,  TotalVentas: 15.0
+Producto: producto3,  TotalVentas: 29.0
